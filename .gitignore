@@ -3,7 +3,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .kotlin
-config.properties
+
 ### Eclipse ###
 .apt_generated
 .classpath
@@ -15,7 +15,7 @@ config.properties
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
-config.properties
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
@@ -26,3 +26,5 @@ config.properties
 ### VS Code ###
 .vscode/
 
+# Archivo de configuracion local que contiene secretos (API Keys)
+config.properties
