@@ -15,7 +15,7 @@ out/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
-
+config.properties
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
@@ -26,5 +26,3 @@ bin/
 ### VS Code ###
 .vscode/
 
-### Mac OS ###
-.DS_Store
